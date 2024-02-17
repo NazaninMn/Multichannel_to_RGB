@@ -2,7 +2,7 @@ This repository is used to convert multi-channel fluorescent images into RGB ima
 
 The RGB format of multi-channel fluorescent images with nuclei and Lineage Tracing marker:
 
-![](image.png)
+![](86632_17.png)
 
 
 The pixel distribution per channel:
