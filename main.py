@@ -13,8 +13,8 @@ import random
 import colorsys
 
 # path
-tiff_path = '/Users/nazanin/Documents/Ph.D./Python_codes/Image_classification/TIFF_wsi/'
-rgb_path = '/Users/nazanin/Documents/Ph.D./Python_codes/Image_classification/RGB_wsi_LGAL3_python/'
+tiff_path = './TIFF_wsi/'
+rgb_path = './output/'
 
 
 def main(img, img_name):
