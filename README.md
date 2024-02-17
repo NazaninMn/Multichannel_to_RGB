@@ -9,5 +9,5 @@ The RGB format of multi-channel fluorescent images with nuclei and Lineage Traci
 The pixel distribution per channel:
 
 <p align="center">
-<img src="histogram" alt="alt text" width="400" />
+<img src="histogram.png" alt="alt text" width="400" />
 </p>
